@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Gate_Drive_PSU)(type KiCad)(uri ${KIPRJMOD}/Gate_Drive_PSU.pretty)(options "")(descr ""))
+)
